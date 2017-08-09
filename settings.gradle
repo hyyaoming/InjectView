@@ -1,0 +1,1 @@
+include ':app', ':injectview-annotation', ':injectview-compile', ':injectview-api'

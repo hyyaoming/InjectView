@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/InjectView.iml" filepath="$PROJECT_DIR$/InjectView.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/injectview-annotation/injectview-annotation.iml" filepath="$PROJECT_DIR$/injectview-annotation/injectview-annotation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/injectview-api/injectview-api.iml" filepath="$PROJECT_DIR$/injectview-api/injectview-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/injectview-compile/injectview-compile.iml" filepath="$PROJECT_DIR$/injectview-compile/injectview-compile.iml" />
+    </modules>
+  </component>
+</project>
